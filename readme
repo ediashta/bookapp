@@ -1,0 +1,14 @@
+Projek BookApp Pemrograman Integratif
+
+Ediashta Revindra A
+185150700111001
+
+Pada kali ini, membuat sebuah aplikasi yang dapat menampilkan database yang ditentukan, dengan mengimplementasikan Controller, Migration, Seeder serta Model pada Lumen Laravel, kemudian menggunakan aplikasi postman untuk mendapatkan get database
+
+langkah-langkah yang diperlukan antara lain
+1. membuat database
+2. menghubungkan database pada file .env
+3. migrate database
+4. seed database
+5. membuat model
+6. menjalankan aplikasi pada Postman
